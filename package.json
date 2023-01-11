@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MarceloWis/arquitetura-limpa/issues"
   },
-  "homepage": "https://github.com/MarceloWis/arquitetura-limpa#readme"
+  "homepage": "https://github.com/MarceloWis/arquitetura-limpa#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.5.0"
+  }
 }
