@@ -1,7 +1,6 @@
 # Clean Architecture Api
 
 
-Conventional Commits
 
 ### Leis do TDD
 
